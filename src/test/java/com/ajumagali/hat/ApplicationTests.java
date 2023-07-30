@@ -1,4 +1,4 @@
-package com.ajumagali.hat.producer;
+package com.ajumagali.hat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

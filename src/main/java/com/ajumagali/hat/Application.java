@@ -1,4 +1,4 @@
-package com.ajumagali.hat.producer;
+package com.ajumagali.hat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

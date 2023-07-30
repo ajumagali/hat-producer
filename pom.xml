@@ -85,6 +85,7 @@
 				<configuration>
 					<testFramework>JUNIT5</testFramework>
 					<testMode>WEBTESTCLIENT</testMode>
+					<baseClassForTests>com.ajumagali.hat.BaseClass</baseClassForTests>
 				</configuration>
 			</plugin>
 			<plugin>

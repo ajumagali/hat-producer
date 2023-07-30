@@ -1,0 +1,15 @@
+description: should return hat by id=1
+request:
+    url: /hat/1
+    method: GET
+
+response:
+    status: 200
+    headers:
+        contentType: applicationJson
+        body:
+            id: 1
+            name: Test Hat 1
+            size: 10
+            color: striped
+
